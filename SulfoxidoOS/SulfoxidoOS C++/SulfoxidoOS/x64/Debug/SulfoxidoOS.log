@@ -1,0 +1,3 @@
+﻿  SulfoxidoOS.cpp
+C:\Users\danun\OneDrive\Área de Trabalho\SulfoxidoOS\SulfoxidoOS\SulfoxidoOS.cpp(31,21): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  SulfoxidoOS.vcxproj -> C:\Users\danun\OneDrive\Área de Trabalho\SulfoxidoOS\x64\Debug\SulfoxidoOS.exe
